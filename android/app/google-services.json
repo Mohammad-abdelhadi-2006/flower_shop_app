@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526316328180",
+    "project_id": "moh-flower-shop",
+    "storage_bucket": "moh-flower-shop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526316328180:android:49b9db2d563f7666fbfaa1",
+        "android_client_info": {
+          "package_name": "com.example.flower_shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEzWjI_NE0VwCco2-SjB8dvsTJ6BfVMd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
